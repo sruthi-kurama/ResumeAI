@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+
+<style>
+
+body{
+font-family:Arial,sans-serif;
+padding:40px;
+color:#222;
+}
+
+h1{
+font-size:30px;
+margin-bottom:0;
+}
+
+h2{
+color:#2563eb;
+margin-top:5px;
+font-size:18px;
+}
+
+.section{
+margin-top:28px;
+}
+
+.section h3{
+border-bottom:2px solid #2563eb;
+padding-bottom:6px;
+color:#111827;
+}
+
+p{
+line-height:1.7;
+white-space:pre-line;
+}
+
+.skill{
+display:inline-block;
+background:#dbeafe;
+color:#1d4ed8;
+padding:6px 12px;
+border-radius:20px;
+margin:4px;
+font-size:13px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>{{ fullname }}</h1>
+
+<h2>{{ jobrole }}</h2>
+
+<p>
+
+{{ email }}
+
+<br>
+
+{{ phone }}
+
+</p>
+
+<div class="section">
+
+<h3>Professional Summary</h3>
+
+<p>{{ summary }}</p>
+
+</div>
+
+<div class="section">
+
+<h3>Experience</h3>
+
+<p>{{ experience }}</p>
+
+</div>
+
+<div class="section">
+
+<h3>Education</h3>
+
+<p>{{ education }}</p>
+
+</div>
+
+<div class="section">
+
+<h3>Skills</h3>
+
+{% for skill in skills %}
+
+<span class="skill">
+
+{{ skill }}
+
+</span>
+
+{% endfor %}
+
+</div>
+
+</body>
+
+</html>
