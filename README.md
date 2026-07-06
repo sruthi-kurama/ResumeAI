@@ -113,3 +113,15 @@ BBA Student | AI & Business Analytics Enthusiast
 ## License
 
 This project is developed for educational and portfolio purposes.
+
+
+![alt text](<Screenshot (71).png>)
+![alt text](<Screenshot (72).png>)
+![alt text](<Screenshot (73).png>)
+![alt text](<Screenshot (74).png>)
+![alt text](<Screenshot (75).png>)
+![alt text](<Screenshot (76).png>)
+![alt text](<Screenshot (77).png>)
+![alt text](<Screenshot (78).png>)
+![alt text](<Screenshot (79).png>)
+![alt text](<Screenshot (80).png>)
