@@ -115,13 +115,29 @@ BBA Student | AI & Business Analytics Enthusiast
 This project is developed for educational and portfolio purposes.
 
 
-![alt text](<Screenshot (71).png>)
-![alt text](<Screenshot (72).png>)
-![alt text](<Screenshot (73).png>)
-![alt text](<Screenshot (74).png>)
-![alt text](<Screenshot (75).png>)
-![alt text](<Screenshot (76).png>)
-![alt text](<Screenshot (77).png>)
-![alt text](<Screenshot (78).png>)
-![alt text](<Screenshot (79).png>)
-![alt text](<Screenshot (80).png>)
+## Screenshots
+
+### Home Page
+![Home Page](images/homepage.png)
+![Home Page](images/homepage1.png)
+
+
+### Features
+![Features](images/features.png)
+![Features](images/features1.png)
+
+### Choose perfect template
+![Choose perfect template](images/choose%20perfect%20template.png)
+![Choose perfect template](images/choose%20perfect%20template1.png)
+
+
+### PDF Download
+![PDF Download](images/generate%20and%20downlaod%20resume%20.png)
+
+
+### How It Works
+![How It Works](images/how%20it%20works%20.png)
+
+### FAQ
+![FAQ](images/FAQ.png)
+
